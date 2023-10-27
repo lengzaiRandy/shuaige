@@ -1,19 +1,13 @@
 <!DOCTYPE.html>
 <html>
 <head>
-    <link rel="color" href="styple.css";>
-    <title>PAGE 1</title>
-    <style>
-        h1{
-            color:#ff6347;
-        }
-        P{
-            background-image: url("image/Bit5ZIqYhsXzeQMecw2u--1--xndn7-removebg-preview.png");
-            background-size: contain;
-            background-repeat: repeat;
-            background-position: center;
-        }
-    </style>
+    <link rel="color" href="style.css";
+        <title>Page Title</Title>
+        <style>
+            h1{
+                color:darkblue;
+            }
+        </style>
 <head>
     <h1>My First Heading</h1>
     <h2>My Second Heading<h2>
